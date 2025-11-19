@@ -1,18 +1,15 @@
-   {
-     "version": "1.0.0",
-     "updateTime": "2025-11-08",
-     "lines": [
-       {
-         "domian": "open.rqhcf.com"
-       },{
-         "domian": "gdre.vnbdx.com"
-       },{
-         "domian": "few.ywqod.com"
-       },{
-         "domian": "open.ijqtx.com"
-       },{
-         "domian": "open.keepbtf.com"
-       }
-     ]
-   }
-   
+{
+    "version": "1.0.0",
+    "updateTime": "2025-11-08",
+    "lines": [
+        {
+            "domian": "open.keepbtf.com"
+        },
+        {
+            "domian": "open.rqhcf.com"
+        },
+        {
+            "domian": "gdre.vnbdx.com"
+        }
+    ]
+}
